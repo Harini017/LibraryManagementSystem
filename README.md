@@ -16,8 +16,9 @@ This is a simple Java-based Library Management System integrated with an SQL dat
 Programming Language: Java
 Database: MySQL
 Connector: JDBC (Java Database Connectivity)
-```
+
 # Project Structure
+```
 LibraryManagementSystem/
 │
 ├── lib/
