@@ -30,9 +30,5 @@ LibraryManagementSystem/
 │   ├── LibraryService.java
 │   ├── Main.java
 │  └── User.java
-
-
-Library.java — main program file
-
 DatabaseConnection.java — handles SQL connection
 ```
